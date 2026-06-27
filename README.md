@@ -1,7 +1,5 @@
 # 📊 Customer Segmentation, Visualization & Advanced Analysis
 
-> Visualize your customer insights easily — no programming knowledge required.
-
 This project focuses on **customer segmentation and churn analysis**, completed during a Business Analyst Internship at **Saiket Systems**. With this tool, you can gain insights into customer behavior, identify key segments, and visualize data to make informed decisions.
 
 ## 🎯 Description
