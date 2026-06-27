@@ -1,10 +1,10 @@
 # 📊 Customer Segmentation, Visualization & Advanced Analysis
 
-Developed during a **Business Analyst Internship at Saiket Systems**, this project applies unsupervised machine learning and interactive Power BI dashboards to help telecommunications companies identify customer segments and predict churn, enabling smarter retention strategies.
+This project applies unsupervised machine learning and interactive Power BI dashboards to help telecommunications companies identify customer segments and predict churn, enabling smarter retention strategies.
 
 ## 🎯 About the Project
 
-This toolkit was built to give businesses clear, actionable insights into their customer base. Using clustering algorithms on real telecom data, it automatically groups customers by behavior and flags those most likely to leave — all visualized through interactive dashboards that anyone on the team can use.
+This was built to give businesses clear, actionable insights into their customer base. Using clustering algorithms on real telecom data, it automatically groups customers by behavior and flags those most likely to leave — all visualized through interactive dashboards that anyone on the team can use.
 
 ## ✨ Features
 
